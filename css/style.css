@@ -1,0 +1,57 @@
+.navbar{
+    box-shadow: 0px 2px 6px rgb(66, 66, 66);
+}
+
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba(161, 161, 161, 0.285),rgba(161, 161, 161, 0.285)) , url(../images/background.png);
+    background-position: center;
+    background-size: cover;
+
+}
+h99 {
+    font-size: 70px;
+  }
+.header-text{
+    position: absolute;
+    top: 50%; left: 40%;
+}
+
+
+
+#about h5{
+    letter-spacing: 5px;
+}
+
+#about img{
+min-height: 100;
+}
+#services h2{
+    letter-spacing: 5px;
+}
+#services h5{
+    letter-spacing: 3px;
+}
+#services .card {
+    background-color: rgb(240, 246, 255);
+}
+#plans h2{
+    letter-spacing: 5px;
+}
+#blog h2{
+    letter-spacing: 5px;
+}
+#blog .card-body{
+    background-color: rgb(239,239,239)
+}
+
+#blog .blogs{
+    -webkit-text-fill-color: rgb(110,99,97);
+}
+#blog .blogsheader{
+    -webkit-text-fill-color: rgb(110,99,97);
+}
+#blog .blogscontent{
+    -webkit-text-fill-color: rgb(110,99,97);
+}
+
